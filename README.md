@@ -11,6 +11,7 @@ Control Instagram Reels on desktop using eye blinks:
 🧠 Built with: OpenCV + MediaPipe + pyautogui + tkinter
 
 📽️ Demo in linkedin 
+    https://www.linkedin.com/in/hemanth-raju-n-46a960342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
 ## Run It
 pip install opencv-python mediapipe pyautogui scipy
